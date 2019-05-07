@@ -4,6 +4,10 @@
 还好 git 的每个仓库可以单独配置：
 
 ```shell
+git config user.name blacker
+```
+全局配置：
+```shell
 git config --global user.name blacker
 ```
 
